@@ -11,7 +11,9 @@ Screenshots of each screen
 
 ![image](https://github.com/user-attachments/assets/c5b8bc1b-895c-485e-9fa6-0b89d32ac041)
 ![image](https://github.com/user-attachments/assets/1bcfb0af-58ee-42c8-a43c-8242fe75838b)
-![image](https://github.com/user-attachments/assets/e9f82748-283e-46cd-9cc3-a8049ed108d5)
+![image](https://github.com/user-attachments/assets/602e675a-9526-4130-9c35-adc65958edf6)
+
+
 
 
 
