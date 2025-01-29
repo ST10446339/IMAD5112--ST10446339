@@ -16,8 +16,8 @@ Screenshots of each screen
 
 
 
-
-However my code works but due to the issues of android it does not work
+EXPLANATION OF THE APP
+ My code works but due to the issues of android it does not work
 * What went wrong:
 Execution failed for task ':app:checkDebugAarMetadata'.
 > A failure occurred while executing com.android.build.gradle.internal.tasks.CheckAarMetadataWorkAction
