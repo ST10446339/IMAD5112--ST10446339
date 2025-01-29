@@ -16,10 +16,10 @@ Screenshots of each screen
 
 EXPLANATION OF THE APP
  My code works but due to the issues of android it does not work
+The first and second page are only working. The third one is crashing
 * What went wrong:
 Execution failed for task ':app:checkDebugAarMetadata'.
-> A failure occurred while executing com.android.build.gradle.internal.tasks.CheckAarMetadataWorkAction
-   > 2 issues were found when checking AAR metadata:
+ > 2 issues were found when checking AAR metadata:
      
        1.  Dependency 'androidx.core:core:1.15.0' requires libraries and applications that
            depend on it to compile against version 35 or later of the
