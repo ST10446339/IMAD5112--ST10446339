@@ -1,10 +1,8 @@
 # IMAD5112--ST10446339
 Purpose of the App
-
-it is to Calculate your walking distance and step count1.
-Monitor your daily activity levels23.
-Help you reach fitness goals or incorporate regular movement into your routine2.
-Measure acceleration, frequency, duration, intensity, and patterns of movement4.
+Its purpose is to determine how far you can walk and how many steps you take.1. Track your daily activity levels23. Assist you in achieving your fitness objectives or integrating regular exercise into your daily schedule.2. Track movement patterns, acceleration, frequency, duration, and intensity.4.
+For people who want to keep an eye on their daily physical activity and lead healthy lives, a step tracker app is a useful tool. It gives users information about their activity levels by keeping track of the steps they take throughout the day. Setting individualized goals encourages users to maintain an active lifestyle and make healthier decisions, such taking more walks throughout the day. Additionally, by providing insightful insights and trends, these apps assist users in evaluating their development over time. With features like social sharing options, connectivity with other health apps, and movement reminders, step tracker applications not only promote consistent physical activity but also a sense of community and achievement, which in turn promotes long-term wellness.
+Additionally, by presenting graphs or reports that illustrate trends in physical activity, such as the optimal times of day for walking or activity spikes, these apps can offer valuable insights into users' activity patterns. Users can utilize this information to develop attainable exercise goals and make well-informed lifestyle decisions. In order to help users avoid prolonged periods of inactivity, which is vital for health, particularly for people with desk jobs or sedentary lifestyles, several applications also provide reminders to take breaks and go for walks.
 
 
 Screenshots of each screen
